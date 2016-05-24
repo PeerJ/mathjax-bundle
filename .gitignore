@@ -1,0 +1,7 @@
+Resources/public/MathJax/fonts/HTML-CSS/TeX/png
+Resources/public/MathJax/docs
+Resources/public/MathJax/test
+Resources/public/MathJax/unpacked
+Resources/public/MathJax/*.md
+Resources/public/MathJax/*.json
+

@@ -2,6 +2,6 @@
   "name": "mathjax-bundle",
   "private": true,
   "dependencies": {
-    "MathJax": "^2.6"
+    "MathJax": "^2.6.1"
   }
 }
