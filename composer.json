@@ -1,0 +1,22 @@
+{
+  "name": "peerj/mathjax-bundle",
+  "description": "A Symfony bundle providing MathJax JS files",
+  "keywords": [
+    "symfony",
+    "composer"
+  ],
+  "type": "library",
+  "license": "",
+  "authors": [
+    {
+      "name": "Alf Eaton",
+      "email": "alf@peerj.com"
+    }
+  ],
+  "homepage": "https://github.com/PeerJ/mathjax-bundle",
+  "autoload": {
+    "psr-4": {
+        "peerj\\MathJaxBundle\\": ""
+    }
+  }
+}
